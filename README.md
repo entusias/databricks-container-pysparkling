@@ -1,5 +1,5 @@
 # databricks-container-pysparkling
-Run H2O Sparkling Water with pysparkling with Databricks Container Services.
+Run H2O Sparkling Water (pysparkling) with Databricks Container Services.
 Tested with Databricks Runtime 9.1 LTS & pysparkling 3.1. 
 
 ```
