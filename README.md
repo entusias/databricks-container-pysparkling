@@ -11,7 +11,7 @@ R: 4.1.1
 Delta Lake: 1.0.0
 ```
 
-## resources
+## Sources
 - https://github.com/databricks/containers
 - https://docs.databricks.com/release-notes/runtime/releases.html
 - https://anaconda.org/h2oai/h2o_pysparkling_3.1
